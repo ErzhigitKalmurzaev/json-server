@@ -1,0 +1,54 @@
+{
+  "works": [
+    {
+      "id": 2,
+      "name": "Call grandma",
+      "description": "dononono",
+      "deadline": 4,
+      "done": true
+    },
+    {
+      "id": 3,
+      "name": "Update IOS",
+      "description": "dononono",
+      "deadline": 7,
+      "done": true
+    },
+    {
+      "id": "ecfb84e0-7b0a-4e4e-9251-828eac960046",
+      "name": "asdsad",
+      "description": "asdsads",
+      "deadline": 12,
+      "done": true
+    },
+    {
+      "id": "ab783aa5-7d07-4219-8033-d67c9276d7c1",
+      "name": "sdsadsadasd",
+      "description": "sadasdsad12",
+      "deadline": 12,
+      "done": false
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "All",
+      "className": "filter__button"
+    },
+    {
+      "id": "done",
+      "name": "Done",
+      "className": "filter__button"
+    },
+    {
+      "id": "nodone",
+      "name": "undone",
+      "className": "filter__button"
+    },
+    {
+      "id": "early",
+      "name": "Early",
+      "className": "filter__button"
+    }
+  ]
+}
